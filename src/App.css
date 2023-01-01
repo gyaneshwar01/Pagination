@@ -1,0 +1,8 @@
+.pagination {
+  width: 50px;
+  margin: auto;
+  font-size: 30px;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+}
